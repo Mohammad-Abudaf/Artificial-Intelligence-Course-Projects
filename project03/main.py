@@ -272,3 +272,4 @@ if __name__ == '__main__':
           "requirments:\n"
           "\tnumpy lib to run correctly\n")
     main()
+    input('Press ENTER to exit')
